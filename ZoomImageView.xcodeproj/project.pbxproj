@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F7446DF11E6E503F005D1356 /* userImage3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F7446DF01E6E503F005D1356 /* userImage3@2x.png */; };
+		F7446DF31E6E5D06005D1356 /* 68e6be8c213b3995d327670906acd94f.gif in Resources */ = {isa = PBXBuildFile; fileRef = F7446DF21E6E5D06005D1356 /* 68e6be8c213b3995d327670906acd94f.gif */; };
 		F7FF037F1E5578CD00C09F33 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F7FF037E1E5578CD00C09F33 /* main.m */; };
 		F7FF03821E5578CD00C09F33 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F7FF03811E5578CD00C09F33 /* AppDelegate.m */; };
 		F7FF03851E5578CD00C09F33 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F7FF03841E5578CD00C09F33 /* ViewController.m */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		F7446DF01E6E503F005D1356 /* userImage3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "userImage3@2x.png"; sourceTree = "<group>"; };
+		F7446DF21E6E5D06005D1356 /* 68e6be8c213b3995d327670906acd94f.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 68e6be8c213b3995d327670906acd94f.gif; sourceTree = "<group>"; };
 		F7FF037A1E5578CD00C09F33 /* ZoomImageView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZoomImageView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7FF037E1E5578CD00C09F33 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F7FF03801E5578CD00C09F33 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				F7FF03941E5578DA00C09F33 /* ZoomImageView.h */,
+				F7446DF21E6E5D06005D1356 /* 68e6be8c213b3995d327670906acd94f.gif */,
 				F7FF03951E5578DA00C09F33 /* ZoomImageView.m */,
 				F7FF03801E5578CD00C09F33 /* AppDelegate.h */,
 				F7FF03811E5578CD00C09F33 /* AppDelegate.m */,
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F7FF038D1E5578CD00C09F33 /* LaunchScreen.storyboard in Resources */,
+				F7446DF31E6E5D06005D1356 /* 68e6be8c213b3995d327670906acd94f.gif in Resources */,
 				F7FF03A51E55826F00C09F33 /* userImage1@2x.png in Resources */,
 				F7FF03A61E55826F00C09F33 /* userImage2@2x.png in Resources */,
 				F7446DF11E6E503F005D1356 /* userImage3@2x.png in Resources */,
